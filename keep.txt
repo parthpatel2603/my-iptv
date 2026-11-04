@@ -1,0 +1,13 @@
+# One channel-name fragment per line (not case-sensitive).
+# Delete everything below to keep ALL free Indian + Gujarati channels.
+DD
+Girnar
+Gujarati
+Sandesh
+TV9
+ABP
+Aaj Tak
+NDTV
+India Today
+Aastha
+Sanskar
